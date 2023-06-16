@@ -25,3 +25,11 @@ div{
 p:hover{
   color:white
 }
+
+p {
+	text-align: center;
+}
+
+em strong {
+	color:purple;
+}
