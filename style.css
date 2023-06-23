@@ -26,10 +26,14 @@ p:hover{
   color:white
 }
 
+footer:hover{
+  color:white
+}
+
 p {
 	text-align: center;
 }
 
 em strong {
-	color:purple;
+	color:gray;
 }
